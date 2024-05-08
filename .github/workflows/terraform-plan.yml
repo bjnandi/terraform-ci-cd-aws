@@ -15,10 +15,6 @@ jobs:
     name: "Terraform Plan"
     runs-on: ubuntu-latest
 
-    # defaults:
-    #   run:
-    #     shell: bash
-    #     working-directory: './env/dev'
 
     permissions:
       contents: read
