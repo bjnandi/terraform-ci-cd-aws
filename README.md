@@ -1,4 +1,4 @@
-# Terraform-ci-cd-aws
+# Automate Deploys AWS Infrastructure with Terraform using GitHub actions
 
 ### Step 1: Clone the repository in the local machine
 ```
